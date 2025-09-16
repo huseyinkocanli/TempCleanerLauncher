@@ -41,7 +41,7 @@ Kullanıcı dostu arayüzü ile sisteminizdeki geçici dosyaları, önbellekleri
 
 Program kurulum gerektirmez.
 
-1.  Projenin [**Releases**](https://github.com/huseyinkocanli/TempCleanerPro/releases) (Yayınlar) sayfasından en son `.zip` dosyasını indirin.
+1.  Projenin [**Releases**](https://github.com/huseyinkocanli/TempCleanerLauncher/releases) (Yayınlar) sayfasından en son `.zip` dosyasını indirin.
 2.  İndirdiğiniz arşivi istediğiniz bir klasöre çıkartın.
 3.  `TempCleanerLauncher.exe` dosyasına çift tıklayarak programı çalıştırın.
 
